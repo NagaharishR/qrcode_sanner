@@ -80,7 +80,7 @@ class _QRCodeWidgetState extends State<QRCodeWidget> {
                       await launchUrl(_url);
                     }
                   },
-                  child: Text('copy'))
+                  child: Text('open'))
             ],
           ))
         ],
